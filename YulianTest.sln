@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YulianTest", "YulianTest\YulianTest.csproj", "{29748EB8-9D1B-49F4-B090-9FA69230EEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29748EB8-9D1B-49F4-B090-9FA69230EEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29748EB8-9D1B-49F4-B090-9FA69230EEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29748EB8-9D1B-49F4-B090-9FA69230EEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29748EB8-9D1B-49F4-B090-9FA69230EEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA87D11-CE35-4550-9EA9-EB13740DA639}
+	EndGlobalSection
+EndGlobal

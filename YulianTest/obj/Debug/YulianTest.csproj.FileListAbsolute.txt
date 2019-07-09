@@ -1,0 +1,10 @@
+C:\Users\yulian\source\repos\YulianTest\YulianTest\bin\Debug\YulianTest.exe.config
+C:\Users\yulian\source\repos\YulianTest\YulianTest\bin\Debug\YulianTest.exe
+C:\Users\yulian\source\repos\YulianTest\YulianTest\bin\Debug\YulianTest.pdb
+C:\Users\yulian\source\repos\YulianTest\YulianTest\obj\Debug\YulianTest.csprojAssemblyReference.cache
+C:\Users\yulian\source\repos\YulianTest\YulianTest\obj\Debug\YulianTest.csproj.CoreCompileInputs.cache
+C:\Users\yulian\source\repos\YulianTest\YulianTest\obj\Debug\YulianTest.exe
+C:\Users\yulian\source\repos\YulianTest\YulianTest\obj\Debug\YulianTest.pdb
+C:\Users\yulian\source\repos\YulianTest\YulianTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yulian\source\repos\YulianTest\YulianTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yulian\source\repos\YulianTest\YulianTest\obj\Debug\YulianTest.csproj.CopyComplete
