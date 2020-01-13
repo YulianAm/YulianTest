@@ -41,8 +41,7 @@ using OpenQA.Selenium.Support.UI;
     
 /////////////////////main
 public static main()
-{
-
+             {
             Driver = DriverInit.GetNewWebDriver();
 
             loginPage = new LoginPage(Driver, "PDK");
@@ -52,3 +51,4 @@ public static main()
             Driver.SwitchTo().Window(Driver.WindowHandles.Last());
             }
     }
+}
