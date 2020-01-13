@@ -37,9 +37,11 @@ using OpenQA.Selenium.Support.UI;
 
 
 
-    }
+
     
 /////////////////////main
+public static main()
+{
 
             Driver = DriverInit.GetNewWebDriver();
 
@@ -48,3 +50,5 @@ using OpenQA.Selenium.Support.UI;
             loginPage.LoginToDgx();
 
             Driver.SwitchTo().Window(Driver.WindowHandles.Last());
+            }
+    }
