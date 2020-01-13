@@ -50,5 +50,9 @@ public static main()
 
             Driver.SwitchTo().Window(Driver.WindowHandles.Last());
             }
+            
+            By tableLocatorInsideWidget = By.CssSelector(".data-cell.scheme-text.scheme-odd");
+
+            Utils.PageObjectUtils.WaitUntilElementVisible(Driver, widgetsLocator, 12);
 
 }
