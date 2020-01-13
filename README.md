@@ -1,7 +1,8 @@
  using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-
+public test()
+{
 
         public static IWebDriver GetNewWebDriver()
         {
@@ -50,3 +51,4 @@ public static main()
             Driver.SwitchTo().Window(Driver.WindowHandles.Last());
             }
 
+}
